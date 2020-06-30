@@ -1,3 +1,8 @@
+##Link
+https://www.youtube.com/watch?v=WDYv89tG9js
+
+------------------------------------------------
+
 Fabflix is a full-stack, end-to-end web-database application. Users use the website to search through movies, stars, and genres in order to buy the movies they want. A team of two other students and I built the application from scratch over ten weeks. Every other week we had to create a mini-project, each one building off the last and adding more features to the website. The main technologies used were Java, MySQL, Apache Tomcat and ec2-ubuntu instances hosted through Amazon Web Services. I created the servlets and the majority of the code that dealt with the database. One team member did most of the front-end work, creating the JSP pages and designing the look of the website. The other’s job was setting up the AWS instances and taking care of the production side of the project.
 
 The first project involved creating a MySQL database with provided movie info, writing a Java program to connect to and interact with the database using JDBC, and setting up Apache Tomcat to deploy the web app on a free-tier, 64-bit Amazon AWS Ubuntu instance we set up.
